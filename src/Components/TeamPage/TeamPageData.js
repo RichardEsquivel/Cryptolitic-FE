@@ -18,7 +18,21 @@ import mike from "../../../src/images/profile-team19/mike.png";
 
 
 
-// Under construction
+export const data19 = [
+	{ name: 'Richard Lee Esquivel', role: 'Fullstack Engineer', href: 'https://github.com/RichardEsquivel', img: richard },
+	{ name: 'Jeffrey Oliver', role: 'Fullstack Engineer', href: 'https://github.com/codeOfTheFuture', img: jeff },
+	{ name: 'Mike Nguyen', role: 'Fullstack Engineer', href: 'https://github.com/mpvn30', img: mike },
+	{ name: 'Micah Riley', role: 'Fullstack Engineer', href: 'https://github.com/micahriley88', img: micah },
+	{ name: 'Luis Mendes', role: 'Fullstack Engineer', href: 'https://github.com/cvlopes88', img: luis },
+	{ name: 'Kyle Haggin', role: 'Data Scientist', href: ' https://github.com/KyleHaggin', img: kyle },
+	{ name: 'Ross Fischer', role: 'Data Scientist', href: 'https://github.com/ross-fisher', img: ross },
+	{ name: 'Emmett Boudreau', role: 'Data Scientist', href: 'http://github.com/emmettgb', img: emmett },
+	{ name: 'Mason Karsevar', role: 'Project Lead', href: 'https://github.com/karsevar', img: mason }
+]
+
+
+
+
 export const data17 = [
 	{ name: 'Elizabeth "Stay Schema(a)innn" Ter Sahakyan', role: 'App Architect, Data Engineer Machine Learning Engineer, UI/UX Designer', href: 'https://github.com/elizabethts', img: elizabeth },
 	{ name: 'Alfredo "Wanders through Random Forests" Quintana', role: "Machine Learning Engineer", href: "https://github.com/alqu7095", img: alfredo },
@@ -39,16 +53,6 @@ export const data17 = [
 	}
 ]
 
-export const data19 = [
-	{ name: 'Richard Lee Esquivel', role: 'Fullstack Engineer', href: 'https://github.com/RichardEsquivel', img: richard },
-	{ name: 'Jeffrey Oliver', role: 'Fullstack Engineer', href: 'https://github.com/codeOfTheFuture', img: jeff },
-	{ name: 'Mike Nguyen', role: 'Fullstack Engineer', href: 'https://github.com/mpvn30', img: mike },
-	{ name: 'Micah Riley', role: 'Fullstack Engineer', href: 'https://github.com/micahriley88', img: micah },
-	{ name: 'Luis Mendes', role: 'Fullstack Engineer', href: 'https://github.com/cvlopes88', img: luis },
-	{ name: 'Kyle Haggin', role: 'Data Scientist', href: ' https://github.com/KyleHaggin', img: kyle },
-	{ name: 'Ross Fischer', role: 'Data Scientist', href: 'https://github.com/ross-fisher', img: ross },
-	{ name: 'Emmett Boudreau', role: 'Data Scientist', href: 'http://github.com/emmettgb', img: emmett },
-	{ name: 'Mason Karsevar', role: 'Project Lead', href: 'https://github.com/karsevar', img: mason }
-]
+
 
 
